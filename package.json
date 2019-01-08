@@ -2,7 +2,7 @@
   "name": "laba-aot-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://LexaSolovey.github.io/labaAot3",
+  "homepage": "http://LexaSolovey.github.io/laba-aot-3",
   "dependencies": {
     "keyword-extractor": "0.0.15",
     "react": "^16.7.0",
